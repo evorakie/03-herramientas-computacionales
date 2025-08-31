@@ -6,8 +6,8 @@ window.addEventListener("resize", function () {
 
 function setup() {
     createCanvas(valor, valor, WEBGL).parent("#pecinco");
-    select("#nombre").html("marti U・ᴥ・U");
-    select("#aprendizaje").html("a programar y explorar nuevas formas de expresión visual para proyectos digitales");
+    select("#nombre").html("sayen (๑>؂•̀๑)");
+    select("#aprendizaje").html("espero aprender a manejar distintos programas!!!");
     noStroke();
 }
 function draw() {
@@ -26,3 +26,4 @@ function draw() {
 function windowResized() {
     resizeCanvas(valor, valor);
 }
+
