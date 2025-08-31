@@ -67,14 +67,14 @@ ol {
 li {
     list-style: none;
     line-height: 2rem;
-    border-bottom: 2px solid darkmagenta;
+    border-bottom: 2px solid MediumVioletRed;
     display: flex;
     padding: 0.5rem 0;
     align-items: center;
     transition: background-color 0.2s;
 }
 li:hover {
-    background-color: rgba(139, 0, 139, 0.1);
+    background-color: rgba(209,79,144, 0.1);
 }
 
 li img {
@@ -83,7 +83,7 @@ li img {
     height: 2rem;
     margin-right: 1rem;
     object-fit: cover;
-    border: 2px solid #9370db;
+    border: 2px solid #fc6dc3;
     transition: transform 0.2s;
 }
 li:hover img {
@@ -102,4 +102,5 @@ a:hover {
     color: MediumVioletRed;
     text-decoration: underline;
 }
+
 
