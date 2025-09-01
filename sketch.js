@@ -20,12 +20,13 @@ function draw() {
     emissiveMaterial(50, 50, 100);
     fill(199, 21, 133);
     metalness(1);
-    sphere(40, 64, 64);
+    torus(30, 15, 5);
 }
 
 function windowResized() {
     resizeCanvas(valor, valor);
 }
+
 
 
 
