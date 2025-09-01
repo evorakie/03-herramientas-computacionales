@@ -75,7 +75,7 @@ li {
 }
 li:hover {
     background-color: rgba(209,79,144, 0.5);
-    border-radius: 35px;
+
 }
 
 li img {
@@ -102,6 +102,7 @@ a:hover {
     color: MediumVioletRed;
     text-decoration: underline;
 }
+
 
 
 
