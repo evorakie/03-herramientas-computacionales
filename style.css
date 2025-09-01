@@ -68,7 +68,6 @@ li {
     list-style: none;
     line-height: 2rem;
     border-bottom: 2px solid MediumVioletRed;
-    border-top: 2px solid MediumVioletRed;
     display: flex;
     padding: 0.5rem 0;
     align-items: center;
@@ -83,7 +82,7 @@ li img {
     border-radius: 50% 50%;
     width: 2rem;
     height: 2rem;
-    margin-right: 0,5rem;
+    margin-right: 1rem;
     object-fit: cover;
     transition: transform 0.2s;
 }
@@ -103,6 +102,7 @@ a:hover {
     color: MediumVioletRed;
     text-decoration: underline;
 }
+
 
 
 
