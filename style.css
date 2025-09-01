@@ -82,9 +82,8 @@ li img {
     border-radius: 50% 50%;
     width: 2rem;
     height: 2rem;
-    margin-right: 0.5rem;
+    margin-right: 1rem;
     object-fit: cover;
-    border: 2px solid MediumVioletRed;
     transition: transform 0.2s;
 }
 li:hover img {
@@ -102,8 +101,8 @@ a {
 a:hover {
     color: MediumVioletRed;
     text-decoration: underline;
-    text-decoration-style: dashed;  
 }
+
 
 
 
