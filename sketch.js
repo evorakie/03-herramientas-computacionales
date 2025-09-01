@@ -15,7 +15,7 @@ function draw() {
     orbitControl();
     directionalLight(200, 200, 200, -1, -1, -1);
     pointLight(255, 255, 255, 200, -150, 200);
-    specularMaterial(200, 200, 255);
+    specularMaterial(199,21,133);
     shininess(50);
     emissiveMaterial(50, 50, 100);
     metalness(1);
@@ -26,6 +26,7 @@ function draw() {
 function windowResized() {
     resizeCanvas(valor, valor);
 }
+
 
 
 
