@@ -74,7 +74,7 @@ li {
     transition: background-color 0.2s;
 }
 li:hover {
-    background-color: rgba(209,79,144, 0.1);
+    background-color: rgba(209,79,144, 0.3);
 }
 
 li img {
@@ -102,6 +102,7 @@ a:hover {
     color: MediumVioletRed;
     text-decoration: underline;
 }
+
 
 
 
