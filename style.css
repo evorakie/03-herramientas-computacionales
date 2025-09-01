@@ -74,7 +74,7 @@ li {
     transition: background-color 0.2s;
 }
 li:hover {
-    background-color: solid rgba(209,79,144, 0.5);
+    background-color: rgba(209,79,144, 0.5);
     border-radius: 45px;
 }
 
@@ -104,6 +104,7 @@ a:hover {
     text-decoration: underline;
     text-decoration-style: dashed;  
 }
+
 
 
 
