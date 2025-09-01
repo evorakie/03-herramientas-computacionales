@@ -74,14 +74,14 @@ li {
     transition: background-color 0.2s;
 }
 li:hover {
-    background-color: rgba(209,79,144, 0.3);
+    background-color: rgba(209,79,144, 0.5);
 }
 
 li img {
     border-radius: 50% 50%;
-    width: 2rem;
-    height: 2rem;
-    margin-right: 1rem;
+    width: 3rem;
+    height: 3rem;
+    margin-right: 2rem;
     object-fit: cover;
     border: 2px solid MediumVioletRed;
     transition: transform 0.2s;
@@ -101,7 +101,9 @@ a {
 a:hover {
     color: MediumVioletRed;
     text-decoration: underline;
+    text-decoration-style: wavy;  
 }
+
 
 
 
