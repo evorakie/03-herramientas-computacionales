@@ -11,7 +11,7 @@ function setup() {
     noStroke();
 }
 function draw() {
-    background(#e8a5c4);
+    background(232, 165, 196);
     orbitControl();
     directionalLight(200, 200, 200, -1, -1, -1);
     pointLight(255, 255, 255, 200, -150, 200);
@@ -19,12 +19,13 @@ function draw() {
     shininess(50);
     emissiveMaterial(50, 50, 100);
     metalness(1);
-    fill(MediumVioletRed);
+    fill(199,21,133);
     sphere(40, 64, 64);
 }
 
 function windowResized() {
     resizeCanvas(valor, valor);
 }
+
 
 
