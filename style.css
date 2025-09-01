@@ -67,7 +67,7 @@ ol {
 li {
     list-style: none;
     line-height: 2rem;
-    border-bottom: 2px solid rgb(156, 42, 99);
+    border-bottom: 2px solid MediumVioletRed;
     display: flex;
     padding: 0.5rem 0;
     align-items: center;
@@ -83,7 +83,7 @@ li img {
     height: 2rem;
     margin-right: 1rem;
     object-fit: cover;
-    border: 2px solid rgb(156, 42, 99);
+    border: 2px solid MediumVioletRed;
     transition: transform 0.2s;
 }
 li:hover img {
@@ -102,6 +102,7 @@ a:hover {
     color: MediumVioletRed;
     text-decoration: underline;
 }
+
 
 
 
